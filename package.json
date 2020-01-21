@@ -47,7 +47,7 @@
     "vue-disqus": "^3.0.5"
   },
   "devDependencies": {
-    "@fullhuman/postcss-purgecss": "^1.2.0",
+    "@fullhuman/postcss-purgecss": "^2.0.5",
     "@nuxtjs/eslint-config": "^0.0.1",
     "@nuxtjs/eslint-module": "^0.0.1",
     "@nuxtjs/style-resources": "^0.1.2",
